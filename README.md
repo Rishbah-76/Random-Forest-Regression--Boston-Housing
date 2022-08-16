@@ -35,8 +35,8 @@ We are using the RandomForest as it provides low bias and low variance and can w
      <td>Prediction: On Logged Data</td>
   </tr>
   <tr>
-    <td><img src="static/saves/1.jpg" </td>
-    <td><img src="static/saves/2.jpg" </td>
+    <td><img src="static/saves/1.jpg"  </td>
+    <td><img src="static/saves/2.jpg" width=480</td>
   </tr>
  </table>
  <table>
@@ -44,6 +44,6 @@ We are using the RandomForest as it provides low bias and low variance and can w
     <td>Final Predctions On Test Data</td>
   </tr>
   <tr>
-    <td><img src="static/saves/3.jpg"></td>
+    <td><img src="static/saves/3.jpg" ></td>
   </tr>
  </table>
